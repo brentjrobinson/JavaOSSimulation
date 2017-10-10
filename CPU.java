@@ -1,6 +1,4 @@
-/**
- * Created by Kyle on 04/18/2017
- */
+
 public class CPU {
 	//CPU registers set by Decode and executed by Execute
 	private static int SourceReg1, SourceReg2, DestinationReg, BaseReg, Address, Data, OC;
